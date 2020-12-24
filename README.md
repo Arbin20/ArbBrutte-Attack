@@ -1,5 +1,5 @@
 # ArbBrutteAttack-Instagram v1.1.1
-## Krijoi: Arbin Qazimi
+## Author: Arbin Qazimi
 ## IG: instagram.com/arbin.qazimi
 ### The code in the script is written by me personally so to use this code I have to send you the initials, Thank you!
 ArbBrutteAttack is a software shell script that uses several formulas from cryptography as well as the Ceaser algorithm,
