@@ -1,10 +1,9 @@
 # ArbBrutteAttack-Instagram v1.1.1
 ## Krijoi: Arbin Qazimi
 ## IG: instagram.com/arbin.qazimi
-### Kodi në skript është shënuar nga ana ime personalisht prandaj për të përdorur këtë kodë duhet të tu dërgoj incialet, Ju Faleminderit! 
-ArbBrutteAttack është një shell script programore në të cilë përdoren disa formula nga kriptografia si dhe algoritmi i Ceaser, 
-i cili mundëson që një llogari në instagram të provoj shumë fjalëkalime dhe shpesh ndosh që të gjendet edhe fjalkalimi i saktë!
-
+### The code in the script is written by me personally so to use this code I have to send you the initials, Thank you!
+ArbBrutteAttack is a software shell script that uses several formulas from cryptography as well as the Ceaser algorithm,
+which enables an instagram account to try many passwords and often the correct password is also found!
 ### Features
 - Multi-thread (400 pass/min, 20 threads)
 - Save/Resume sessions
