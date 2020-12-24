@@ -15,7 +15,7 @@ i cili mundëson që një llogari në instagram të provoj shumë fjalëkalime d
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instashell
+Download the Zip folder or just in terminal write git clone https://github.com/Arbin20/ArbBrutte-Attack.git
 cd instashell
 chmod +x instashell.sh
 service tor start
@@ -32,9 +32,6 @@ sudo ./install.sh
 ### How it works?
 
 Script uses an Android ApkSignature to perform authentication in addition using TOR and rotating the ip address to avoid blocking. 
-The script uses Instagram-py algorithm, see the project at: https://github.com/antony-jr/instagram-py
+The script uses Instagram-py algorithm, see the project at: https://github.com/Arbin20/ArbBrutte-Attack
 
-### Donate!
-Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
